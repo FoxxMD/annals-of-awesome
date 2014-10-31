@@ -1,4 +1,4 @@
-annals-of-awesome
+Annals of Awesome
 =================
 
 A very opiniated and incomplete list of libraries, projects, and articles that meet at least one of these requirements:
