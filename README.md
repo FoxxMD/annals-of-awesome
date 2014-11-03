@@ -19,6 +19,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Resource] [Sandman](https://github.com/jeffknupp/sandman) - Create a REST interface for any database automagically.
 * [Resource] [fullcalendar (fork](https://github.com/seankenny/fullcalendar) - A fork of [fullcalendar](http://arshaw.com/fullcalendar/) with a "resource" component built into the day-view.
 * **[Resource] [Delorean.js](https://github.com/deloreanjs/delorean)** - A small [flux](http://facebook.github.io/flux/docs/overview.html) framework
+* [Resource] [McFly](https://github.com/kenwheeler/mcfly) - Another flux framework
 
 ### Angular
 
