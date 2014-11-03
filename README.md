@@ -44,6 +44,10 @@ Divided by language or area of concentration and then randomly categorized. Bold
 
 * [Resource] [forever](https://github.com/nodejitsu/forever) - Run a node sever as a daemon/service.
 
+## Workflow
+
+* [Watch Me] [angular-kickstart](https://github.com/vesparny/angular-kickstart) - Workflow for angular app with optimization for prod, unit and e2e testing, and dev.
+
 # CSS/HTML/Assets
 
 * [Watch Me] [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - [Material Design](http://www.google.com/design/spec/material-design/introduction.html) ported to bootstrap.
