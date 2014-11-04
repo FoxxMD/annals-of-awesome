@@ -63,3 +63,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Watch Me] [Scalaxy](https://github.com/ochafik/Scalaxy) - A collection of compiler plugin goodies.
 * [Resource] [sbt-assembly](https://github.com/sbt/sbt-assembly) - An sbt plugin for creating fat JARs out of your app
 * [Resource] [sbt-aws-plugin](https://github.com/philcali/sbt-aws-plugin) - AWS integration for the sbt console
+
+# Databases and Persistence
+
+* [Watch Me][levelDB](http://leveldb.org/) - Lightweight persistence library
