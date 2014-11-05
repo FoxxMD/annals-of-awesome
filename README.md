@@ -51,6 +51,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 # CSS/HTML/Assets
 
 * [Watch Me] [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - [Material Design](http://www.google.com/design/spec/material-design/introduction.html) ported to bootstrap.
+* [Resource] [Awesome Web Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 #Scala
 
