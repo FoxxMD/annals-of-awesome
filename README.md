@@ -49,6 +49,10 @@ Divided by language or area of concentration and then randomly categorized. Bold
 
 * [Watch Me] [angular-kickstart](https://github.com/vesparny/angular-kickstart) - Workflow for angular app with optimization for prod, unit and e2e testing, and dev.
 
+## Persistence
+
+* **[Resource][mongoose-deep-populate](https://github.com/buunguyen/mongoose-deep-populate)** - Plugin that enables multi level population of nested models from mongoDB using mongoose
+
 # CSS/HTML/Assets
 
 * [Watch Me] [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - [Material Design](http://www.google.com/design/spec/material-design/introduction.html) ported to bootstrap.
