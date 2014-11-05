@@ -39,6 +39,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 
 * [Learning] [tcomb](https://github.com/gcanti/tcomb) - Pragmatic runtime type checking for JavaScript
 * **[Learning] [stampit](https://github.com/ericelliott/stampit)** - Reusable, composable factorie functions for object factories. Great way to avoid deep inheritence and make my programming more functional.
+* [Learning] [seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures that are backwards compatible with regular JS data structures.
 
 ## Tooling
 
