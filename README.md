@@ -20,6 +20,9 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Resource] [fullcalendar (fork](https://github.com/seankenny/fullcalendar) - A fork of [fullcalendar](http://arshaw.com/fullcalendar/) with a "resource" component built into the day-view.
 * **[Resource] [Delorean.js](https://github.com/deloreanjs/delorean)** - A small [flux](http://facebook.github.io/flux/docs/overview.html) framework
 * [Resource] [McFly](https://github.com/kenwheeler/mcfly) - Another flux framework
+* [Resource] [SuperAgent](https://github.com/visionmedia/superagent) - Lightweight AJAX library
+* [Resource] [flatiron director](https://github.com/flatiron/director) - Lightweight router
+* [Resource] [awesome-react](https://github.com/enaqx/awesome-react)
 
 ### Angular
 
