@@ -37,6 +37,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Resource] [AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) - Port of [toastr](https://github.com/CodeSeven/toastr) notification library for Angular.
 * [Sensei] [angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) - A style guide for angular
 * [Resource] [ng-admin](https://github.com/marmelab/ng-admin) - Create an admin interface for a RESTful API.
+* **[Resource] [ocLazyLoad](https://github.com/ocombe/ocLazyLoad)** - Lazy load modules, services, controllers, etc.
 
 ## General Programming
 
