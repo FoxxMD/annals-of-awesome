@@ -24,6 +24,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Resource] [flatiron director](https://github.com/flatiron/director) - Lightweight router
 * [Resource] [awesome-react](https://github.com/enaqx/awesome-react) - React resources
 * [Resrouce] [hammer.js](https://github.com/hammerjs/hammer.js) - Touch support with no dependencies
+* [Resource] [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) - a library optimized for visualizing and laying out time-series data, created by Mozilla.
 
 ### Angular
 
