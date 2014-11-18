@@ -18,11 +18,6 @@ Divided by language or area of concentration and then randomly categorized. Bold
 
 * [Resource] [Sandman](https://github.com/jeffknupp/sandman) - Create a REST interface for any database automagically.
 * [Resource] [fullcalendar (fork](https://github.com/seankenny/fullcalendar) - A fork of [fullcalendar](http://arshaw.com/fullcalendar/) with a "resource" component built into the day-view.
-* **[Resource] [Delorean.js](https://github.com/deloreanjs/delorean)** - A small [flux](http://facebook.github.io/flux/docs/overview.html) framework
-* [Resource] [McFly](https://github.com/kenwheeler/mcfly) - Another flux framework
-* [Resource] [SuperAgent](https://github.com/visionmedia/superagent) - Lightweight AJAX library
-* [Resource] [flatiron director](https://github.com/flatiron/director) - Lightweight router
-* [Resource] [awesome-react](https://github.com/enaqx/awesome-react) - React resources
 * [Resrouce] [hammer.js](https://github.com/hammerjs/hammer.js) - Touch support with no dependencies
 * [Resource] [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) - a library optimized for visualizing and laying out time-series data, created by Mozilla.
 
@@ -40,6 +35,16 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Sensei] [angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) - A style guide for angular
 * [Resource] [ng-admin](https://github.com/marmelab/ng-admin) - Create an admin interface for a RESTful API.
 * **[Resource] [ocLazyLoad](https://github.com/ocombe/ocLazyLoad)** - Lazy load modules, services, controllers, etc.
+
+##React
+
+* [Resource] [Omniscient](https://github.com/omniscientjs/omniscient) - Rendering with immutable data structures
+* [Resource] [RefluxJS](https://github.com/spoike/refluxjs) - Flux architecture
+* [Resource] [Delorean.js](https://github.com/deloreanjs/delorean) - A small flux framework
+* [Resource] [McFly](https://github.com/kenwheeler/mcfly) - Another flux framework
+* [Resource] [SuperAgent](https://github.com/visionmedia/superagent) - Lightweight AJAX library
+* [Resource] [flatiron director](https://github.com/flatiron/director) - Lightweight router
+* [Resource] [awesome-react](https://github.com/enaqx/awesome-react) - React resources
 
 ## General Programming
 
