@@ -39,7 +39,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 ##React
 
 * [Resource] [Omniscient](https://github.com/omniscientjs/omniscient) - Rendering with immutable data structures
-* [Resource] [RefluxJS](https://github.com/spoike/refluxjs) - Flux architecture
+* [Resource] [RefluxJS](https://github.com/spoike/refluxjs) - Flux architecture ([how to use from reddit](https://www.reddit.com/r/javascript/comments/2mndc3/on_react/cm5y8bh))
 * [Resource] [Delorean.js](https://github.com/deloreanjs/delorean) - A small flux framework
 * [Resource] [McFly](https://github.com/kenwheeler/mcfly) - Another flux framework
 * [Resource] [SuperAgent](https://github.com/visionmedia/superagent) - Lightweight AJAX library
