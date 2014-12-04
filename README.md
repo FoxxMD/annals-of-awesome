@@ -85,3 +85,11 @@ Divided by language or area of concentration and then randomly categorized. Bold
 
 * [Watch Me][levelDB](http://leveldb.org/) - Lightweight persistence library
 * [Resource][FnordMetric](https://github.com/paulasmuth/fnordmetric) - Create SVG graphics from SQL queries
+
+# Infrastructure and DevOps
+
+# IDE
+
+## Theme/Colors
+
+* [Resource] [Solarized](http://ethanschoonover.com/solarized) - Well engineered editor theming with support for a bunch of IDEs.
