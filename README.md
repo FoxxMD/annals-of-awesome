@@ -21,6 +21,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Resrouce] [hammer.js](https://github.com/hammerjs/hammer.js) - Touch support with no dependencies
 * [Resource] [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) - a library optimized for visualizing and laying out time-series data, created by Mozilla.
 * [Resource] [PhotoSwipe](https://github.com/dimsemenov/photoswipe) - Simple, effective, polished image gallery with touch support and gestures. (Nice)
+* [Watch Me] [Apostrophe](https://github.com/punkave/apostrophe) - In-context CMS built on top of Node
 
 ### Angular
 
