@@ -90,6 +90,8 @@ Divided by language or area of concentration and then randomly categorized. Bold
 
 # Infrastructure and DevOps
 
+* [Resource][github-todos](https://github.com/naholyr/github-todos) - Github hook to create issues from TODO code
+
 # IDE
 
 ## Theme/Colors
