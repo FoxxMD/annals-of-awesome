@@ -22,6 +22,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Resource] [MetricsGraphics.js](https://github.com/mozilla/metrics-graphics) - a library optimized for visualizing and laying out time-series data, created by Mozilla.
 * [Resource] [PhotoSwipe](https://github.com/dimsemenov/photoswipe) - Simple, effective, polished image gallery with touch support and gestures. (Nice)
 * [Watch Me] [Apostrophe](https://github.com/punkave/apostrophe) - In-context CMS built on top of Node
+* [Resource] [hello.js](https://github.com/MrSwitch/hello.js) - Library for standardizing oauth2 services
 
 ### Angular
 
