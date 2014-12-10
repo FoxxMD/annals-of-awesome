@@ -54,6 +54,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Learning] [tcomb](https://github.com/gcanti/tcomb) - Pragmatic runtime type checking for JavaScript
 * **[Learning] [stampit](https://github.com/ericelliott/stampit)** - Reusable, composable factorie functions for object factories. Great way to avoid deep inheritence and make my programming more functional.
 * [Learning] [seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures that are backwards compatible with regular JS data structures.
+* [Resource] [Lazy.js](https://github.com/dtao/lazy.js) - A replacement for utility libraries like Underscore that takes a lazy approach to evaluation. Possibly similar to [LINQ from C#](https://www.reddit.com/r/programming/comments/2ouwze/introducing_lazyjs_2013/cmqpw09)
 
 ## Tooling
 
