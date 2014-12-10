@@ -71,6 +71,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 
 * [Watch Me] [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - [Material Design](http://www.google.com/design/spec/material-design/introduction.html) ported to bootstrap.
 * [Resource] [Awesome Web Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+* [Resource] [Skeleton 2.0 CSS Framework](http://getskeleton.com/?2.0) - Dead simple, extremely lightweight css framework
 
 #Scala
 
