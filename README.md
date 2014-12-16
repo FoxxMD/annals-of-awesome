@@ -25,6 +25,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Resource] [hello.js](https://github.com/MrSwitch/hello.js) - Library for standardizing oauth2 services
 * [Resource] [Dante](https://github.com/michelson/Dante) - Another Medium WYSIWYG editor
 * [Resource] [Pikaday](https://github.com/dbushell/Pikaday) - Lightweight datepicker with no dependencies
+* [Resource] [converse.js](https://github.com/jcbrand/converse.js) - Web-based XMPP Instant Messaging client written in javascript
 
 ### Angular
 
