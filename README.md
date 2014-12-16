@@ -82,6 +82,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 ## Web Development
 
 * [Resouce] [ScalaCache](https://github.com/cb372/scalacache) - Simple caching for scala backed by popular caching implementations.
+* [Resource] [Jawn](https://github.com/non/jawn) - Fast json parsing with support for third-party ASTs(json4s)
 
 ## Tooling
 
