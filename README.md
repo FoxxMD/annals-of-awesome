@@ -23,6 +23,8 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Resource] [PhotoSwipe](https://github.com/dimsemenov/photoswipe) - Simple, effective, polished image gallery with touch support and gestures. (Nice)
 * [Watch Me] [Apostrophe](https://github.com/punkave/apostrophe) - In-context CMS built on top of Node
 * [Resource] [hello.js](https://github.com/MrSwitch/hello.js) - Library for standardizing oauth2 services
+* [Resource] [Dante](https://github.com/michelson/Dante) - Another Medium WYSIWYG editor
+* [Resource] [Pikaday](https://github.com/dbushell/Pikaday) - Lightweight datepicker with no dependencies
 
 ### Angular
 
@@ -66,7 +68,8 @@ Divided by language or area of concentration and then randomly categorized. Bold
 
 ## Persistence
 
-* **[Resource][mongoose-deep-populate](https://github.com/buunguyen/mongoose-deep-populate)** - Plugin that enables multi level population of nested models from mongoDB using mongoose
+* **[Resource] [mongoose-deep-populate](https://github.com/buunguyen/mongoose-deep-populate)** - Plugin that enables multi level population of nested models from mongoDB using mongoose
+* [Watch Me] [bookshelf.js](https://github.com/tgriesser/bookshelf) - A Node.js ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js
 
 # CSS/HTML/Assets
 
@@ -88,12 +91,12 @@ Divided by language or area of concentration and then randomly categorized. Bold
 
 # Databases and Persistence
 
-* [Watch Me][levelDB](http://leveldb.org/) - Lightweight persistence library
-* [Resource][FnordMetric](https://github.com/paulasmuth/fnordmetric) - Create SVG graphics from SQL queries
+* [Watch Me] [levelDB](http://leveldb.org/) - Lightweight persistence library
+* [Resource] [FnordMetric](https://github.com/paulasmuth/fnordmetric) - Create SVG graphics from SQL queries
 
 # Infrastructure and DevOps
 
-* [Resource][github-todos](https://github.com/naholyr/github-todos) - Github hook to create issues from TODO code
+* [Resource] [github-todos](https://github.com/naholyr/github-todos) - Github hook to create issues from TODO code
 
 # IDE
 
