@@ -26,6 +26,7 @@ Divided by language or area of concentration and then randomly categorized. Bold
 * [Resource] [Dante](https://github.com/michelson/Dante) - Another Medium WYSIWYG editor
 * [Resource] [Pikaday](https://github.com/dbushell/Pikaday) - Lightweight datepicker with no dependencies
 * [Resource] [converse.js](https://github.com/jcbrand/converse.js) - Web-based XMPP Instant Messaging client written in javascript
+* [Resource] [Lambdaws](https://github.com/mentum/lambdaws) - Lambda wrapper to be used with javascript
 
 ### Angular
 
