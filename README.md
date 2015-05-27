@@ -81,6 +81,16 @@ Divided by language or area of concentration and then randomly categorized. Bold
 
 #Scala
 
+## General Learning
+
+* [Event Sourcing Overview](http://martinfowler.com/eaaDev/EventSourcing.html)
+* [Event Sourcing In Practice](https://ookami86.github.io/event-sourcing-in-practice/#title.md)
+* [Simple Event Sourcing](http://blog.zilverline.com/2012/07/04/simple-event-sourcing-introduction-part-1/)
+
+## General Programming
+
+* [eventsourced](https://github.com/eligosource/eventsourced)
+
 ## Web Development
 
 * [Resouce] [ScalaCache](https://github.com/cb372/scalacache) - Simple caching for scala backed by popular caching implementations.
